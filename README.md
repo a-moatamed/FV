@@ -2,7 +2,10 @@ Functional Verification UVM Template (Vivado 2024.2)
 
 **======== Do not remove! ========** 
 
-Name: John Doe
+Team name:
+Member#1: John Doe
+Member#2: John Doe
+Member#3: John Doe
 
 **================================**
 
