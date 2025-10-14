@@ -1,4 +1,4 @@
-Task 1
+Task 1. Deadlines: Oct 28 / Nov 4
 
 - Clone the template repository and add your information in the root README.
 - Generate the RTL sources for your chosen IP (e.g., AXI GPIO):
