@@ -1,4 +1,4 @@
-Task 1. Deadlines: Nov 11 / Nov 18
+Task 2. Deadlines: Nov 11 / Nov 18
 
 - Get familiar with UVM reporting functions 
 - Implement one or more sequence items
