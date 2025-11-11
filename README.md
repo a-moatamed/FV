@@ -1,12 +1,11 @@
 **======== Do not remove! ========** 
 
-Team name: To do
+Team name: lscarlat
 
-Module: To do
+Module: axi_timebase_wdt
 
-Member#1: John Doe<br>
-Member#2: John Doe<br>
-Member#3: John Doe<br>
+Member#1: Luca Scarlat<br>
+
 
 **================================**
 
