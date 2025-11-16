@@ -118,7 +118,7 @@ module top;
         end
         begin
             #1000;
-            `uvm_fatal("SIM_END", $psprintf("Reached the simulation limi"))
+            `uvm_fatal("SIM_END", $sformatf("Reached the simulation limi"))
         end
     join_any
 
