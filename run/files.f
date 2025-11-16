@@ -2,8 +2,6 @@
 # RTL SOURCES
 # =========================================
 
-# Header (must come first)
-../src/rtl/axi_infrastructure_v1_1_0.vh
 
 # Infrastructure logic used by register slice
 ../src/rtl/axi_infrastructure_v1_1_vl_rfs.v
